@@ -1,6 +1,0 @@
-Valdick R,18,Python
-Miguel P,21,Educação Fisica
-Arthur Y,24,Power BI
-Gabriel J,24,Gestão de Pessoas
-Sthefany G,18,Artes
-Mickaellen L,20,Nutrição
